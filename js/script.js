@@ -8,9 +8,6 @@ const textos= document.querySelectorAll('.texto')
 
 boton.addEventListener('click', () => {
     
-   // $("#body").removeClass('blanco');	
-    //body.classList.remove('blanco');
-    //body.classList.add('negro');
     body.classList.toggle("negro");
     titulo.classList.toggle('amarillo');
     text.classList.toggle('blanco');
