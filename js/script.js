@@ -17,7 +17,6 @@ boton.addEventListener('click', () => {
         texto.classList.toggle('blanco');
     })
 
-
     //animacion
     boton.classList.toggle('mover');
 
